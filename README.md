@@ -16,7 +16,7 @@
 
 
 ## 🧠 Insight Utama
-- Garis kemiskinan cenderung meningkat dari 2015 hingga 2020, kemudian menurun perlahan.
+- Garis kemiskinan terus meningkat dari tahun 2013 hingga 2022.
 - Provinsi dengan kontribusi terbesar terhadap garis kemiskinan nasional adalah [Provinsi Kepulauan Bangka Belitung].
 - Kategori "Makanan" mendominasi garis kemiskinan.
 
