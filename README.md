@@ -12,7 +12,8 @@
 - GitHub (dokumentasi)
 
 ## 📈 Dashboard Preview
-![preview](img/dashboard_preview.png)
+![dashboard_preview](https://github.com/user-attachments/assets/e162d03a-59c2-426b-b7a9-909474f1a862)
+
 
 ## 🧠 Insight Utama
 - Garis kemiskinan cenderung meningkat dari 2015 hingga 2020, kemudian menurun perlahan.
